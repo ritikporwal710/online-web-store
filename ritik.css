@@ -79,7 +79,7 @@
 
 .background{
     /* height: 100vh; */
-    background: rgba(0, 0, 0, 0.7) url('background.jpg.jpg');
+    background: rgba(0, 0, 0, 0.5) url('bghome2.avif');
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -221,3 +221,6 @@
 #end-date{
     color: aliceblue;
 }
+
+
+
